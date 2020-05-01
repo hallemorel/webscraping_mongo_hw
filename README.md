@@ -16,7 +16,7 @@ Part 1, Web Scraping:
 
 -  Using the USGS Astrogeology site I obtained high resolution images for each of Mar’s hemispheres: https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars.
 
-Part 2: MongoDB and Flask Application:
+Part 2, MongoDB and Flask Application:
 
 -  I used MongoDb with Flask templating to create a new HTML page that displays the information and the URLs from above. 
 
